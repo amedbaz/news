@@ -2,53 +2,11 @@
 news: [
 {
 id: 5,
-logo: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FIMG_8241_11zon.png?alt=media&token=a5e6ca73-ab47-42f4-bb76-a3249eb5a7b0",
-nav: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FScreenshot_2024-09-25_230814-removebg-preview%20(1).png?alt=media&token=69eca0c0-5a0f-4ade-affc-97be2a512891",
-ver: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2FScreenshot_2024-09-26_095136-removebg-preview.png?alt=media&token=7b60c049-13b3-4f69-a758-4b9250913056",
 tesir: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2Fkendav.PNG?alt=media&token=459739a6-9d31-4cfa-a016-dbd6b15a8f3a",
 dd: "Atlas",
 ddx: "20 ئادار  .",
-text1: "ژڤانێ یاریێن مە ل کۆپا یانەیێن کەنداڤی ........مواعيد مبارياتنا في كاس اندية الخليج"
-},
-{
-id: 4,
-logo: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FIMG_8241_11zon.png?alt=media&token=a5e6ca73-ab47-42f4-bb76-a3249eb5a7b0",
-nav: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FScreenshot_2024-09-25_230814-removebg-preview%20(1).png?alt=media&token=69eca0c0-5a0f-4ade-affc-97be2a512891",
-ver: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2FScreenshot_2024-09-26_095136-removebg-preview.png?alt=media&token=7b60c049-13b3-4f69-a758-4b9250913056",
-tesir: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2Fe3e.JPG?alt=media&token=57fc628c-2eb3-4d07-be3d-cd49a2c46ecb",
-dd: "Duhok Sport Club",
-ddx : "20 ئادار  .",
-text1: "ياريكه‌رێ مه‌غربی شه‌رقی ئه‌لبه‌حری دبیته‌ دیارییا به‌رپرسێ لقا ئێكا پارتی د نه‌وزاد عه‌بدوللا بۆ پشته‌ڤانێن دهۆك بۆ وه‌رزێ 2024-2025 ، ئه‌لبه‌حری پێشتر بۆ یانه‌یا وداد ، و نه‌هزه‌ ئه‌لبركانی و مه‌غربی الفاسی یێن مه‌غربی كرییه‌ ........المهاجم المغربي شرقي البحري يوقع على كشوفات نادي دهوك لموسم 2024-2025، حيث سبق للمهاجم المغربي أن مثل صفوف كل من أندية الوداد ، نهضة بركان والمغربي الفاسي المغربية ."
-},
-{
-id: 3,
-logo: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FIMG_8241_11zon.png?alt=media&token=a5e6ca73-ab47-42f4-bb76-a3249eb5a7b0",
-nav: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FScreenshot_2024-09-25_230814-removebg-preview%20(1).png?alt=media&token=69eca0c0-5a0f-4ade-affc-97be2a512891",
-ver: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2FScreenshot_2024-09-26_095136-removebg-preview.png?alt=media&token=7b60c049-13b3-4f69-a758-4b9250913056",
-tesir: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2Fpek.JPG?alt=media&token=59470c99-5c21-4250-9a93-e2cdfda1210b",
-dd: "Duhok Sport Club",
-ddx: "20 ئادار  .",
-text1: "  پێکهاتێ ئەلهویان بو یاریا کلاسیکو💛💙💛  "
-},
-{
-id: 2,
-logo: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FIMG_8241_11zon.png?alt=media&token=a5e6ca73-ab47-42f4-bb76-a3249eb5a7b0",
-nav: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FScreenshot_2024-09-25_230814-removebg-preview%20(1).png?alt=media&token=69eca0c0-5a0f-4ade-affc-97be2a512891",
-ver: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2FScreenshot_2024-09-26_095136-removebg-preview.png?alt=media&token=7b60c049-13b3-4f69-a758-4b9250913056",
-tesir: "https://scontent.fosm2-2.fna.fbcdn.net/v/t39.30808-6/461199081_1059458782847001_8655878434650495548_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OVgbYER6C_EQ7kNvgGPnts-&_nc_ht=scontent.fosm2-2.fna&_nc_gid=Ae5qefaTVq4A4VDZ__1gAaL&oh=00_AYCl9m5Z-2uudp5GbxBlW4sVqTxpxgkSqS9CAdgsUWo6jA&oe=66FC5A8A",
-dd: "Duhok Sport Club",
-ddx: "20 ئادار  .",
-text1: " ‎كلاسیکو نێزیک بوو ، ئەلهو د بەرهەڤن ئەڤ جارە ژی کلاسیکوی د بەرژەوەندیا خودا بدووماهیک بینن.إقترب الكلاسيكو ، صقورنا جاهزة لحسم الكلاسيكو كما حسمته سابقاً.#duhoksc First Iraqi Bankk."
-},
-{
-id: 1,
-logo: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FIMG_8241_11zon.png?alt=media&token=a5e6ca73-ab47-42f4-bb76-a3249eb5a7b0",
-nav: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FScreenshot_2024-09-25_230814-removebg-preview%20(1).png?alt=media&token=69eca0c0-5a0f-4ade-affc-97be2a512891",
-ver: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2FScreenshot_2024-09-26_095136-removebg-preview.png?alt=media&token=7b60c049-13b3-4f69-a758-4b9250913056",
-tesir: "https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fphoto_2024-09-25_23-17-04.jpg?alt=media&token=02cfc5fc-933b-4ea3-a8ca-c541dc4abec8",
-dd: "Duhok Sport Club",
-ddx: "20 ئادار  .",
-text1: " پشككێشانا كۆپا یانه‌یێن كه‌نداڤی دا ، دهۆك لسه‌ر كۆما ئێكێ هات دگه‌ل هه‌ر ئێك ژ یانه‌یێن نه‌سر یا ئیماراتی ، ئه‌هلی سه‌نعا یا یه‌مه‌نی و زه‌فار یا عومانی في قرعة بطولة الأندية الخليجية ، دهوك في رأس المجموعة الأولى مع كل من النصر الاماراتي ، ظفار العماني و أهلي الصنعاء اليمني."
+textx: "ژڤانێ یاریێن مە ل کۆپا یانەیێن کەنداڤی ........مواعيد مبارياتنا في كاس اندية الخليج"
 }
+
 ]
 }
