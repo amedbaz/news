@@ -2,59 +2,63 @@
   "news":[
  {
    "id":1,
-
-"tesir": "https://www.whats-on-netflix.com/wp-content/uploads/2024/05/back-in-action-netflix-movie-everything-we-know.jpg",
-"dd": "Back in Action",
-"dd1": "2025 ئادار  .",
-"text1": "Former CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed."
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/longles%2Fphoto_2024-09-19_08-40-47.jpg?alt=media&token=0f39e41d-f703-4c85-8fe4-5e1976ac8ea6",
+      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/longles%2Fphoto_2024-09-19_08-40-36.jpg?alt=media&token=164760ac-defb-4b97-a537-27bb0a0b5f35",
+      "ism":"",
+      "nav":" Longlegs",
+    "action":"film",
+    "aaction":" Horror",
+    "raiting":"star",
+    "araitng":" 6.8",
+    "time":"time-sharp",
+    "atime":" 1h 41m",
+    "trailer":"ترەیلەر",
+    "youtube":"OG7wOTE8NhE?si=hC32hs23E9PiX9l9",
+      "youtube1":"FXOtkvx25gI?si=29RhJIW5f9rS1UPY",
+      "youtube2":"wWK0OfbElaU?si=Og1Roeh8IWnhGAD6",
+      "youtube3":"dkcrNh9XSSw?si=qYm75515UVXiGY4j",
+      "jor":"Longlegs",
+   "play1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/playy.png?alt=media&token=37b0b437-4dec-46d2-b6bc-ce146d2d7acb",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/longles%2FLonglegs.2024.mp4?alt=media&token=57254e3e-5170-478c-8f89-254d66ab387a",
+ "kurti":"كورتی",
+ "akurti":"بریکارێ FBI لی هارکەر  دوسەیەکێ ڤەدکەت یا بکوژەکێ زنجیرەی کو ئەو دوسەیە نەهاتیە چارەسەرکرن هارکەر پەیوەندیا بکوژی دەست نیشان دکەت و بکوژی پەیدادکەت  ودڤێت وی بکوژی ب راوستینیت ژ تاوانا",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/x4yiKkMnCdf8g4eOrDoqla9FYEA.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/3e6my8gZYS3L2OP4ZTN1psQDYIT.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/vQ2McAjHjY3A7oDrPMx6aLSsvkW.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/WOlWIDRFwHdNWO3y2wXuYW89ug.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/lFP48m1VR8fBwDqI7LuYoMIziD7.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     },
- {
+     {
    "id":2,
-
-"tesir": "https://m.media-amazon.com/images/M/MV5BZDEzZDcxYTAtN2YxZC00OGYzLWI3MDktNmEzYWJmMjQyNDBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-"dd": "Ad Vitam",
-"dd1": "2025 ئادار  .",
-"text1": "After escaping an attempted murder, Franck Lazarev must find his wife Leo, who has been kidnapped by a mysterious group of armed men. He is caught up with his past and plunged into a state affair that is beyond his control."
-    },
-     {
-   "id":3,
-
-"tesir": "https://m.media-amazon.com/images/M/MV5BMGIzZDg3MjktZTYzYi00NmNiLTkwMTAtOTJlNDllNDA2MjlhXkEyXkFqcGc@._V1_.jpg",
-"dd": "Kromoleo",
-"dd1": "2025 ئادار  .",
-"text1": "A young woman returns home against her grandfather's wishes, sparking hauntings by the Kromoleo, ghostly pallbearers who are tied to her father's death."
-     },
-       {
-   "id":4,
-
-"tesir": "https://m.media-amazon.com/images/M/MV5BNjU5Y2RjYWYtMzJmOC00YWRkLTk3NmEtN2Y0YzIwNzQ3NmFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-"dd": "The Sand Castle",
-"dd1": "2025 ئادار  .",
-"text1": "A family of four is stuck on an idyllic island that hides a shocking reality."
-    },
-     {
-   "id":5,
-
-"tesir": "https://occ-0-8407-1360.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABS3mc3ZTitv5ppycQNLdNMLwfmQ9LLKUQPnawBNA51kuQBCvgpAQnae4POv3jwwijKrYHxv-tKtIsgAiiU2rgI5aW5oRjgRPacAm.jpg?r=10d",
-"dd": "Don't Die",
-"dd1": "2025 ئادار  .",
-"text1": "Bryan Johnson, a wealthy entrepreneur, puts his body and fortune on the line to defy ageing and extend his life beyond all known limits."
-    },
-     {
-   "id":6,
-
-"tesir": "https://m.media-amazon.com/images/M/MV5BMGM3MzQwMWItNjM2Ny00NTkwLThkZWMtZmNiYTlhMGZlN2JhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-"dd": "You're Cordially Invited",
-"dd1": "2025 ئادار  .",
-"text1": "A woman planning her sister's ideal wedding and the father of a bride-to-be discover their destination weddings at a remote resort are double-booked. When both parties decide to share the small venue, chaos ensues and disaster awaits.."
-    },
-     {
-   "id":7,
-
-"tesir": "https://static.tvtropes.org/pmwiki/pub/images/kadode.png",
-"dd": "Dead Dead Demon's Dededede Destruction Part 1",
-"dd1": "2025 ئادار  .",
-"text1": "Follows two high school friends, Koyama Kadode and Nakagawa Oran, as they navigate adulthood amidst an alien invasion."
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/train%20to%20busan%2Ft2.JPG?alt=media&token=db6e0d2f-8aa3-466a-b08f-b1000fe913ac",
+      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/train%20to%20busan%2Ft1.JPG?alt=media&token=a1a78e67-770f-4f2a-8a1d-fe7d21738e2d",
+      "ism":"",
+      "nav":" Train to Busan",
+    "action":"film",
+    "aaction":" Horror",
+    "raiting":"star",
+    "araitng":" 7.6",
+    "time":"time-sharp",
+    "atime":" 1h 58m",
+    "trailer":"ترەیلەر",
+    "youtube":"1ovgxN2VWNc?si=79_WM5NBn1ug1gzJ",
+      "youtube1":"E2nrE9JnaDg?si=F2WtLQd3hHYIVUGP",
+      "youtube2":"HtQHuWl7QJA?si=lRAaVz4bD-CLbbEm",
+      "youtube3":"m6kw5aFBSBI?si=x9yiuREuZdwRix8P",
+      "jor":"Train to Busan",
+       "play1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/playy.png?alt=media&token=37b0b437-4dec-46d2-b6bc-ce146d2d7acb",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/train%20to%20busan%2FTrain.To.Busan.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4?alt=media&token=12a174a5-6a2a-4a54-881c-8481a2bed1dd",
+ "kurti":"كورتی",
+ "akurti":"زەلامەک و کچا خو دناڤ شەمەندەفرەکێ بەرەف ئاهەنگا ژدایکبوونێ یێ ڕێکەتین. لێ بارودوخ بەرڤاژی دبیت دەمێ خەبەرێ بەڵاڤ بوونا ڤایروسەکێ دگەهیتە وانا کو مروڤان دکەتە زومبی و دڤێت هەمی پێکولا بکەن داکو خو ژ دەستت ڕزگار بکن.",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/hmPZhhoeUY89Rys6LrsjpTMeoEN.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/9QB7pIW08nDcSqXbVvGw40jRtmx.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/zt1vx7FesNA4x6mTZtyzu2uco8E.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/gVICVa6IypG6BMLsPhscrYICptn.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/rgaNe82JFAO07pbqj2yHy0PF4gw.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     }
 
 
