@@ -1,6 +1,36 @@
 {
   "news":[
-    
+       {
+   "id":3,
+      "wene1":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/bell.jpeg",
+      "wene":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/bell.jpeg",
+      "ism":" ",
+      "nav":"Ballerina",
+    "action":"film",
+    "aaction":" Action",
+    "raiting":"star",
+    "araitng":" 7.0",
+    "time":"time-sharp",
+    "atime":" 2h 04m",
+    "trailer":"ترەیلەر",
+    "youtube":"JAuMxg2JFgo?si=gnRd_8jXQ5tao-Z_",
+      "youtube1":"TFaA13i7AAc?si=INYIZ5jPIFPxSVfE",
+      "youtube2":"pqZ-PkUlJkU?si=9E7EZINZdiTrUz7H",
+      "youtube3":"V_ePU1sZ1d8?si=cg4L_QT0eW7-JbRB",
+      "jor":"Ballerina 2025",
+      "jer":"ژێرنڤیس",
+       "play1":"https://video-delivery-worker.kurdishatlas.workers.dev/play/play.png",
+"play":"https://video-delivery-worker.kurdishatlas.workers.dev/dublac/ballerina.mp4",
+ "kurti":"کورتی",
+ "akurti":"راهێنانێن کوشتنێ ل دویڤ نەریتێن روسکا روما ،ئێڤ ماکارو روویبرووی سوپایەکێ بکوژان دبیت ل دەمێ ب دویڤ تولڤەکرنێ دکەڤیت ژوان کەسان یێن بووینە ئەگەرێ کوشتنا بابێ وێ",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/5Qne374OM0ewMM7uSN9eq9jNrWq.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/78V4H40NXJ6dzqFZaEe1fBelw56.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/pKZjcSanPllyEiHe3rac6OfeQ9a.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    },
      {
    "id":2,
       "wene1":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/det.jpg",
