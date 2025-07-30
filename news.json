@@ -61,38 +61,8 @@
  "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/g325OIjIHrFr0te8ewPfhKQ2SKj.jpg",
  "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg",
 "new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
-    },
-      {
-   "id":1,
-      "wene1":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/minecraft.jpg",
-      "wene":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/minecraft.jpg",
-      "ism":" ",
-      "nav":"A Minecraft Movie",
-    "action":"film",
-    "aaction":" Action",
-    "raiting":"star",
-    "araitng":" 8.2",
-    "time":"time-sharp",
-    "atime":" 1h 41m",
-    "trailer":"ترەیلەر",
-    "youtube":"vb5w5MnpNBg?si=T8EMG6UYwjClHJTb",
-      "youtube1":"TFaA13i7AAc?si=INYIZ5jPIFPxSVfE",
-      "youtube2":"pqZ-PkUlJkU?si=9E7EZINZdiTrUz7H",
-      "youtube3":"V_ePU1sZ1d8?si=cg4L_QT0eW7-JbRB",
-      "jor":"A Minecraft Movie 2025",
-        "jer":"ژێرنڤیس",
-       "play1":"https://video-delivery-worker.kurdishatlas.workers.dev/play/play.png",
-"play":"https://video-delivery-worker.kurdishatlas.workers.dev/dublac/MinecraftAtlas.mp4",
- "kurti":"کورتی",
- "akurti":"چار قارەمانێن نەچاڤەرێکری دهێنە ڤەگوهاستن بۆ جیهانا Minecraft   ل وێرێ پێکڤە ئەو شەری د گەل درەندەیێن شەیتان دکەن و ل رێکەکێ دگەریێن داکو پێ بزڤرنە جیهانا خۆ یا تایبەت. فلم یێ تژییە ژ سەرکێشی و دەمێن خۆش، کو یا ژ یارییەکێ هاتییە وەرگرتن.",
-"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
-"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg",
- "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg",
- "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/v1Y8RP39135ZOary9M4MbkrCAdn.jpg",
- "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/hwrMFbcALcqrV7S2pRP9C5BXrU0.jpg",
- "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/hcpbV0dY4ZJxmZi1WcAWe8euqV2.jpg",
-"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     }
+     
     
  ]
 }
